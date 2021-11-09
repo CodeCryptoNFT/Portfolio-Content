@@ -1,0 +1,8 @@
+*{
+    margin:0;
+    border:0;
+}
+
+table,th{
+    border:1px solid black;
+}
